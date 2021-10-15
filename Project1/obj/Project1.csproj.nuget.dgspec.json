@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mingyuanxie/Desktop/SFProj-main/Project1/Project1.csproj": {}
+  },
+  "projects": {
+    "/Users/mingyuanxie/Desktop/SFProj-main/Project1/Project1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mingyuanxie/Desktop/SFProj-main/Project1/Project1.csproj",
+        "projectName": "Project1",
+        "projectPath": "/Users/mingyuanxie/Desktop/SFProj-main/Project1/Project1.csproj",
+        "packagesPath": "/Users/mingyuanxie/.nuget/packages/",
+        "outputPath": "/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/mingyuanxie/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "bootstrap": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

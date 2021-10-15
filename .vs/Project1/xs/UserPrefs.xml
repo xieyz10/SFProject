@@ -1,0 +1,65 @@
+﻿<Properties StartupConfiguration="{A350F996-F7B2-4409-87FB-1DFB3D6790B5}|Default">
+  <MonoDevelop.Ide.ItemProperties.Project1 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Project1Test/EmployeeControllerTests.cs">
+    <Files>
+      <File FileName="Project1/Controllers/EmployeeController.cs" Line="42" Column="50" />
+      <File FileName="Project1/Views/Tasks/index.cshtml" />
+      <File FileName="Project1/Views/Employee/DisplayTemplates/Employee.cshtml" />
+      <File FileName="Project1/Controllers/TasksController.cs" />
+      <File FileName="Project1/Views/Tasks/DisplayTemplates/Tasks.cshtml" />
+      <File FileName="Project1/Views/Employee/index.cshtml" Line="14" Column="32" />
+      <File FileName="Project1/Services/ITasksServices.cs" />
+      <File FileName="Project1/Services/IEmployeeServices.cs" />
+      <File FileName="Project1/Services/TasksServices.cs" />
+      <File FileName="Project1/Services/EmployeeServices.cs" />
+      <File FileName="Project1/Models/Tasks.cs" />
+      <File FileName="Project1/Views/Employee/Add.cshtml" />
+      <File FileName="Project1/Views/Tasks/Add.cshtml" />
+      <File FileName="Project1/Views/Shared/_Layout.cshtml" />
+      <File FileName="Project1/Views/Employee/Update.cshtml" />
+      <File FileName="Project1/Models/Employee.cs" />
+      <File FileName="Project1Test/TasksControllerTests.cs" />
+      <File FileName="Project1Test/EmployeeControllerTests.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Project1" expanded="True">
+            <Node name="Project1" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Employee" expanded="True">
+                  <Node name="DisplayTemplates" expanded="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+                <Node name="Tasks" expanded="True">
+                  <Node name="DisplayTemplates" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+            <Node name="Project1Test" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="EmployeeControllerTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Project1" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Project1Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

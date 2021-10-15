@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SnjVmOzfqMicoRqjF+NrEkiYLrbcfsWyfll3r0bJMTm6q691vrDomD6DlEOYZ+/4hNiwUihLJex8pxoMq0wb9w==",
+  "success": true,
+  "projectFilePath": "/Users/mingyuanxie/Desktop/SFProj-main/Project1/Project1.csproj",
+  "expectedPackageFiles": [
+    "/Users/mingyuanxie/.nuget/packages/bootstrap/5.1.0/bootstrap.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

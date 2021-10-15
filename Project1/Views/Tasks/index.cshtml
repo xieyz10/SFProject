@@ -1,0 +1,30 @@
+﻿@using Project1.Models;
+@model IEnumerable<Tasks>
+
+
+<div class="row">
+    <div class="col-md-10 offset-md-2">
+        <table class="table table-striped">
+            <tr>
+                <th>EmployeeID</th>
+                <th>TaskName</th>
+                <th>StartTime</th>
+                <th>DeadLine</th>
+            </tr>
+            @Html.DisplayForModel()
+        </table>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-4 offset-md-2">
+        <a asp-action="Add" asp-route-EmployeeId="@ViewBag.EmployeeId" class="btn btn-primary btn-lg active">Add Tasks</a>
+        <a asp-action="Return" class="btn btn-primary btn-lg">Return to Index Page</a>
+    </div>
+    <div class="col-md-4 offset-md-2">
+        
+    </div>
+</div>
+<div class="row">
+    
+</div>

@@ -1,0 +1,27 @@
+﻿@RenderSection("Scripts", required: false)
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SF Project</title>
+    <environment include="Development">
+        <link rel="stylesheet" href="/css/bootstrap.css" />
+    </environment>
+</head>
+<body style="width:90%;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10">
+                <span class="h2"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

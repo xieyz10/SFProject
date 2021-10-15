@@ -1,0 +1,24 @@
+﻿@using Project1.Models;
+@model IEnumerable<Employee>
+
+<div class="row">
+    <div class="col-md-10 offset-md-2">
+        <table class="table table-striped" >
+            <tr>
+                <th>Id</th>
+                <th>FirstName</th>
+                <th>LastName</th>
+                <th>HiredDate</th>
+                <th>Tasks</th>
+                <th>Action</th>
+                <th>Action</th>
+            </tr>
+            @Html.DisplayForModel()
+        </table>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-4 offset-md-2">
+        <a asp-action="Add" class="btn btn-primary btn-lg active">Add Employees</a>
+    </div>
+</div>

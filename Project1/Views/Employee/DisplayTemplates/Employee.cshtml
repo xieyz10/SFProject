@@ -1,0 +1,24 @@
+﻿@using Microsoft.Extensions.Options
+@using Project1
+@model Project1.Models.Employee
+<tr>
+    <td>@Model.Id</td>
+    <td>@Model.FirstName.</td>
+    <td>@Model.LastName</td>
+    <td>@Model.HiredDate</td>
+    <td>
+        <a asp-controller="Tasks" asp-action="Index" asp-route-employeeId="@Model.Id">
+            Tasks
+        </a>
+    </td>
+    <td>
+        <a asp-controller="Employee" asp-action="Delete" asp-route-employeeId="@Model.Id">
+            Delete
+        </a>
+    </td>
+    <td>
+        <a asp-controller="Employee" asp-action="Update" asp-route-employeeId="@Model.Id">
+            Update
+        </a>
+    </td>
+</tr>

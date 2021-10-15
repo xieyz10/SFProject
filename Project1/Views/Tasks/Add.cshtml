@@ -1,0 +1,48 @@
+﻿@using Project1.Models
+@model Tasks
+
+<form asp-action="Add">
+    <input type="hidden" asp-for="EmployeeID" />
+    <div class="row form-group">
+        <div class="col-md-2 offset-md-2">
+            <label asp-for="TaskName"></label>
+        </div>
+        <div class="col-md-6">
+            <input class="form-control" asp-for="TaskName" />
+        </div>
+    </div>
+    <div class="row form-group">
+        <div class="col-md-2 offset-md-2">
+            <label asp-for="StartTime"></label>
+        </div>
+        <div class="col-md-6">
+            <input class="form-control" id="datepicker_startime" asp-for="StartTime" />
+        </div>
+    </div>
+    <div class="row form-group">
+        <div class="col-md-2 offset-md-2">
+            <label asp-for="DeadLine"></label>
+        </div>
+        <div class="col-md-6">
+            <input class="form-control" id="datepicker_deadline" asp-for="DeadLine" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2 offset-md-2">
+            <button type="submit" class="btn btn-primary">Add</button>
+        </div>
+    </div>
+</form>
+
+@section Scripts
+{
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script>
+        $(function () {
+            $("#datepicker_startime").datepicker();
+            $("#datepicker_deadline").datepicker();
+        });
+    </script>
+}

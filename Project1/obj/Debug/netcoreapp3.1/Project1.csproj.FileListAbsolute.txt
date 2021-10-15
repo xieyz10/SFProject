@@ -1,0 +1,158 @@
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/bin/Debug/netcoreapp3.1/Project1.deps.json
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/bin/Debug/netcoreapp3.1/Project1.runtimeconfig.json
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/bin/Debug/netcoreapp3.1/Project1.runtimeconfig.dev.json
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/bin/Debug/netcoreapp3.1/Project1.dll
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/bin/Debug/netcoreapp3.1/Project1.pdb
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/bin/Debug/netcoreapp3.1/Project1.Views.dll
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/bin/Debug/netcoreapp3.1/Project1.Views.pdb
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Project1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Project1.AssemblyInfoInputs.cache
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Project1.AssemblyInfo.cs
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Project1.csproj.CoreCompileInputs.cache
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Project1.MvcApplicationPartsAssemblyInfo.cache
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Project1.RazorAssemblyInfo.cache
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Project1.RazorAssemblyInfo.cs
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/staticwebassets/Project1.StaticWebAssets.Manifest.cache
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/staticwebassets/Project1.StaticWebAssets.xml
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/scopedcss/bundle/Project1.styles.css
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Project1.TagHelpers.input.cache
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Project1.TagHelpers.output.cache
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Project1.RazorCoreGenerate.cache
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Add.cshtml.g.cs
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Employee/DisplayTemplates/Employee.cshtml.g.cs
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Employee/index.cshtml.g.cs
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Update.cshtml.g.cs
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Tasks/DisplayTemplates/Tasks.cshtml.g.cs
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Tasks/index.cshtml.g.cs
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Project1.RazorTargetAssemblyInfo.cache
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Project1.RazorTargetAssemblyInfo.cs
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Project1.Views.pdb
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Project1.dll
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Project1.pdb
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Project1.genruntimeconfig.cache
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Project1.csproj.CopyComplete
+/Users/mingyuanxie/Desktop/asp.net core/Project1/Project1/obj/Debug/netcoreapp3.1/Project1.csproj.AssemblyReference.cache
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/bin/Debug/netcoreapp3.1/Project1.deps.json
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/bin/Debug/netcoreapp3.1/Project1.runtimeconfig.json
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/bin/Debug/netcoreapp3.1/Project1.runtimeconfig.dev.json
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/bin/Debug/netcoreapp3.1/Project1.dll
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/bin/Debug/netcoreapp3.1/Project1.pdb
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/bin/Debug/netcoreapp3.1/Project1.Views.dll
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/bin/Debug/netcoreapp3.1/Project1.Views.pdb
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Project1.csproj.AssemblyReference.cache
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Project1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Project1.AssemblyInfoInputs.cache
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Project1.AssemblyInfo.cs
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Project1.csproj.CoreCompileInputs.cache
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Project1.MvcApplicationPartsAssemblyInfo.cache
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Project1.RazorAssemblyInfo.cache
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Project1.RazorAssemblyInfo.cs
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/staticwebassets/Project1.StaticWebAssets.Manifest.cache
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/staticwebassets/Project1.StaticWebAssets.xml
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/scopedcss/bundle/Project1.styles.css
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Project1.TagHelpers.input.cache
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Project1.TagHelpers.output.cache
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Project1.RazorCoreGenerate.cache
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Add.cshtml.g.cs
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Employee/DisplayTemplates/Employee.cshtml.g.cs
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Employee/index.cshtml.g.cs
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Update.cshtml.g.cs
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Tasks/DisplayTemplates/Tasks.cshtml.g.cs
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Tasks/index.cshtml.g.cs
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Project1.RazorTargetAssemblyInfo.cache
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Project1.RazorTargetAssemblyInfo.cs
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Project1.Views.pdb
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Project1.dll
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Project1.pdb
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Project1.genruntimeconfig.cache
+/Users/mingyuanxie/Desktop/asp.net core/SFProject/Project1/obj/Debug/netcoreapp3.1/Project1.csproj.CopyComplete
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/bin/Debug/netcoreapp3.1/Project1.deps.json
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/bin/Debug/netcoreapp3.1/Project1.runtimeconfig.json
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/bin/Debug/netcoreapp3.1/Project1.runtimeconfig.dev.json
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/bin/Debug/netcoreapp3.1/Project1.dll
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/bin/Debug/netcoreapp3.1/Project1.pdb
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/bin/Debug/netcoreapp3.1/Project1.Views.dll
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/bin/Debug/netcoreapp3.1/Project1.Views.pdb
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.csproj.AssemblyReference.cache
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.AssemblyInfoInputs.cache
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.AssemblyInfo.cs
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.csproj.CoreCompileInputs.cache
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.MvcApplicationPartsAssemblyInfo.cache
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.RazorAssemblyInfo.cache
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.RazorAssemblyInfo.cs
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/staticwebassets/Project1.StaticWebAssets.Manifest.cache
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/staticwebassets/Project1.StaticWebAssets.xml
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/scopedcss/bundle/Project1.styles.css
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.TagHelpers.input.cache
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.TagHelpers.output.cache
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.RazorCoreGenerate.cache
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Add.cshtml.g.cs
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Employee/DisplayTemplates/Employee.cshtml.g.cs
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Employee/index.cshtml.g.cs
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Update.cshtml.g.cs
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Tasks/DisplayTemplates/Tasks.cshtml.g.cs
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Tasks/index.cshtml.g.cs
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.RazorTargetAssemblyInfo.cache
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.RazorTargetAssemblyInfo.cs
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.Views.pdb
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.dll
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.pdb
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.genruntimeconfig.cache
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.csproj.CopyComplete
+/Users/mingyuanxie/Downloads/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Tasks/Add.cshtml.g.cs
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/bin/Debug/netcoreapp3.1/Project1.deps.json
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/bin/Debug/netcoreapp3.1/Project1.runtimeconfig.json
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/bin/Debug/netcoreapp3.1/Project1.runtimeconfig.dev.json
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/bin/Debug/netcoreapp3.1/Project1.dll
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/bin/Debug/netcoreapp3.1/Project1.pdb
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/bin/Debug/netcoreapp3.1/Project1.Views.dll
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/bin/Debug/netcoreapp3.1/Project1.Views.pdb
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.AssemblyInfoInputs.cache
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.AssemblyInfo.cs
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.csproj.CoreCompileInputs.cache
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.MvcApplicationPartsAssemblyInfo.cache
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.RazorAssemblyInfo.cache
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.RazorAssemblyInfo.cs
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/staticwebassets/Project1.StaticWebAssets.Manifest.cache
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/staticwebassets/Project1.StaticWebAssets.xml
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/scopedcss/bundle/Project1.styles.css
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.TagHelpers.input.cache
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.TagHelpers.output.cache
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.RazorCoreGenerate.cache
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Add.cshtml.g.cs
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Employee/DisplayTemplates/Employee.cshtml.g.cs
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Employee/index.cshtml.g.cs
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Employee/Update.cshtml.g.cs
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Tasks/Add.cshtml.g.cs
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Tasks/DisplayTemplates/Tasks.cshtml.g.cs
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Razor/Views/Tasks/index.cshtml.g.cs
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.RazorTargetAssemblyInfo.cache
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.RazorTargetAssemblyInfo.cs
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.Views.pdb
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.dll
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.pdb
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.genruntimeconfig.cache
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.csproj.CopyComplete
+/Users/mingyuanxie/Desktop/SFProj-main/Project1/obj/Debug/netcoreapp3.1/Project1.csproj.AssemblyReference.cache
